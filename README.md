@@ -1,6 +1,8 @@
-# 🚨 Cybersecurity Incident Handling & Analysis Portfolio
+# 🚨 Incident Handling & Analysis
 
 This project showcases real-world incident handling and analysis examples using the **NIST Cybersecurity Framework**. It includes a simulated **incident handler journal entry** and multiple **incident report analyses** for different threat scenarios (DDoS, phishing, ransomware).
+
+![ChatGPT Image - Incident Handling   Analysis](https://github.com/user-attachments/assets/7fcc145b-8203-4432-b8cf-b6f92d0d8985)
 
 ---
 
