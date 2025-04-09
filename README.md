@@ -61,7 +61,7 @@ This project showcases real-world incident handling and analysis examples using 
 - **Human error** and **weak authentication** remain top vulnerabilities.
 - **Logging, backups, and employee training** are foundational to recovery and resilience.
 
-# [📑 GRC Mapping – Incident Response & Compliance]()
+# [📑 GRC Mapping – Incident Response & Compliance](https://github.com/ghatell/grc-mapping)
 
 ---
 
